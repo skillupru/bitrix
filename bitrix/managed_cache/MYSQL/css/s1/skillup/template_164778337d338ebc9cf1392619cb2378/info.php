@@ -1,0 +1,1 @@
+<? $filesInfo = array( 'FILES' => array("/local/templates/skillup/styles.css" => "1522165121578","/bitrix/components/bitrix/menu/templates/.default/style.css" => "1522164873581","/bitrix/js/main/core/css/core_panel.css" => "152216487367494","/local/templates/skillup/template_styles.css" => "15221651219719","/bitrix/js/fileman/sticker.css" => "152216488927011",)); ?>

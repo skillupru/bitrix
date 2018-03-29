@@ -1,0 +1,6 @@
+*.sql
+*.tar.gz
+
+/bitrix/.settings.php
+/bitrix/backup/
+/bitrix/cache/

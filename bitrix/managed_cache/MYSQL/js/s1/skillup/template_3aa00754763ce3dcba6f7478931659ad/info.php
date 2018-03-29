@@ -1,0 +1,1 @@
+<? $filesInfo = array( 'FILES' => array("/local/components/bitrix/search.title/script.js" => "15221649109371",)); ?>
